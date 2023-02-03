@@ -62,7 +62,6 @@ Hi, I'm Jason
 
 <p>
     <a href="#"><img alt="IntelliJ%20IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=IntelliJ%20IDEA&logoColor=white"></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000.svg?logo=WebStorm&logoColor=white"></a>
 
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
