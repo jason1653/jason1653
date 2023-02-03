@@ -8,7 +8,7 @@ Hi, I'm Jason
 
 <div align="center">
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![jason's Github Stats](https://github-readme-stats.vercel.app/api?username=jason1653&count_private=true&show_icons=true&include_all_commits=true)
 
 </div>
 
