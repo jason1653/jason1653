@@ -6,17 +6,19 @@ Hi, I'm Jason
 </p>
 </h1>
 
+<p align="center">
+
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-<div style="display: flex">
-<div style="width:50%; text-align: center">
-    <a href="https://github.com/jason1653"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason1653&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-</div>
-<div style="width:50%; text-align: center">
-<a href="https://github.com/jason1653">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jason1653&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</div>
-</div>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/jason1653"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason1653&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jason1653&theme=monokai-metallian&hide_border=true"/>
+
+</p>
+
+
 
 
 ## 🛠️ 사용하는 Tool
