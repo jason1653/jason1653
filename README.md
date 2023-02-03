@@ -1,3 +1,10 @@
+<h1 align="center">
+Hi, I'm Jason
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
+</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -14,7 +21,7 @@
   </div>
   <br>
 
-  <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jason1653&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jason1653&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 
@@ -27,6 +34,7 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
