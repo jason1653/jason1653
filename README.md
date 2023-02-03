@@ -2,7 +2,7 @@
 Hi, I'm Jason
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
-
+</h1>
 
 <table width="100%" border="0" cellspacing="0" style="border:0px solid #000;">
 <tr>
@@ -16,10 +16,7 @@ Hi, I'm Jason
 	</td>
 </tr>
 </table>
-<center>
-	
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
-</center>
+
 
 ## 🔥 Streak Stats
 
