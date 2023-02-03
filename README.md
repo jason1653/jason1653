@@ -4,7 +4,7 @@ Hi, I'm Jason
  <!--<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
 
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 	<td width="50%" align="center">
 		<a href="https://github.com/jason1653/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason1653&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
