@@ -15,15 +15,15 @@ Hi, I'm Jason
   </div>
   <br>
   <div align=center>
-    <a href="https://github.com/jason1653/github-readme-stats">
+    <a href="https://github.com/jason1653">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason1653&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
   </div>
   <br>
 
-  <!--
+  
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jason1653&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  -->
+  
 </div>
 
 
