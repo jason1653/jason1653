@@ -51,6 +51,7 @@ Hi, I'm Jason
 
 ### 🌐 Frontend Frameworks
 <p>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Nextjs%20-000000.svg?logo=Next.js&logoColor=white"></a>
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-4FC08D.svg?logo=Vue.js&logoColor=white"></a>
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white"></a>
 </p>
