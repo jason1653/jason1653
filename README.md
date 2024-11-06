@@ -59,7 +59,7 @@ Hi, I'm Jason
 ### 🧰 Backend Frameworks
 <p>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot%20-6DB33F.svg?logo=Spring Boot&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%E31F80.svg?logo=ktor&logoColor=white"></a>
+    <a href="#"><img alt="Ktor" src="https://img.shields.io/badge/Java-%E31F80.svg?logo=ktor&logoColor=white"></a>
     <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=CodeIgniter&logoColor=white"></a>
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"></a>
     <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white"></a>
